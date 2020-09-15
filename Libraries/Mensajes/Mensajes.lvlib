@@ -19,6 +19,8 @@
 				<Item Name="Hide Panel Argument--cluster.ctl" Type="VI" URL="../Hide Panel Argument--cluster.ctl"/>
 				<Item Name="Show Diagram Argument--cluster.ctl" Type="VI" URL="../Show Diagram Argument--cluster.ctl"/>
 				<Item Name="Publicar mensaje Argument--cluster.ctl" Type="VI" URL="../Publicar mensaje Argument--cluster.ctl"/>
+				<Item Name="actualizar el credito Argument--cluster.ctl" Type="VI" URL="../actualizar el credito Argument--cluster.ctl"/>
+				<Item Name="Compra Realizada Argument--cluster.ctl" Type="VI" URL="../Compra Realizada Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -33,6 +35,8 @@
 			<Item Name="Get Module Execution Status.vi" Type="VI" URL="../Get Module Execution Status.vi"/>
 			<Item Name="Show Diagram.vi" Type="VI" URL="../Show Diagram.vi"/>
 			<Item Name="Publicar mensaje.vi" Type="VI" URL="../Publicar mensaje.vi"/>
+			<Item Name="actualizar el credito.vi" Type="VI" URL="../actualizar el credito.vi"/>
+			<Item Name="Compra Realizada.vi" Type="VI" URL="../Compra Realizada.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
